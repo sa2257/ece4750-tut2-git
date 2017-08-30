@@ -6,3 +6,4 @@ Mangoosten
 lemon
 Rambutan
 grape
+cherry

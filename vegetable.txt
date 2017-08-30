@@ -1,3 +1,4 @@
 spinarch
 broccoli
 turnip
+potato

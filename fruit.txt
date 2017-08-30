@@ -9,3 +9,4 @@ grape
 cherry
 melon
 blueberry
+strawberry
